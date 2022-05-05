@@ -1,7 +1,7 @@
 url: https://cloud.durum.biz
-status: up
-code: 200
-responseTime: 651
-lastUpdated: 2022-05-05T20:54:19.991Z
+status: down
+code: 503
+responseTime: 404
+lastUpdated: 2022-05-05T21:11:21.335Z
 startTime: Thu Feb 10 2022 18:17:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
