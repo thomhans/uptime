@@ -1,7 +1,7 @@
 url: $SECRET_HOME_URL
-status: up
-code: 200
-responseTime: 155
-lastUpdated: 2022-10-14T23:16:10.825Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-10-15T07:47:45.628Z
 startTime: Thu Feb 10 2022 18:23:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
