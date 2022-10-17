@@ -16,7 +16,7 @@
     "timeMonth": 479,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2022-10-17": 49,
+      "2022-10-17": 1180,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
@@ -273,7 +273,7 @@
     "url": "$SECRET_HOME_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.80%",
@@ -285,6 +285,7 @@
     "timeMonth": 157,
     "timeYear": 143,
     "dailyMinutesDown": {
+      "2022-10-17": 0,
       "2022-10-15": 88,
       "2022-10-14": 335,
       "2022-09-28": 308
