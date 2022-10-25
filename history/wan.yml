@@ -1,7 +1,7 @@
-url: $ustasen_ip
+url: $USTASEN_IP
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2022-10-25T23:16:01.896Z
+lastUpdated: 2022-10-25T23:16:58.092Z
 startTime: Thu Feb 10 2022 18:23:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
