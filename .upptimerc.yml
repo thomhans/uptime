@@ -7,8 +7,8 @@ sites:
     url: https://cloud.durum.biz
   - name: WAN
     check: "tcp-ping"
-    url: $ustasen_ip
-    port: $ustasen_port
+    url: $USTASEN_IP
+    port: $USTASEN_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
