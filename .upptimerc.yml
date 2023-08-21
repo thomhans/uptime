@@ -9,6 +9,12 @@ sites:
     check: "tcp-ping"
     url: $USTASEN_IP
     port: $USTASEN_PORT
+  - name: UstFlix
+    url: $USTFLIX_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
