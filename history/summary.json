@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.04%",
+    "uptimeYear": "84.05%",
     "time": 616,
     "timeDay": 632,
     "timeWeek": 899,
@@ -109,7 +109,7 @@
     "uptime": "49.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "21.16%",
+    "uptimeMonth": "21.18%",
     "uptimeYear": "21.53%",
     "time": 147,
     "timeDay": 131,
@@ -415,19 +415,19 @@
     "url": "$USTFLIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ust-flix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 244,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 287,
+    "timeDay": 261,
     "timeWeek": 293,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "timeMonth": 287,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-08-28": 0
+      "2023-08-28": 9
     }
   }
 ]
