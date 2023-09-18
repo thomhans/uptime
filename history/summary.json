@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.durum.biz.ico",
     "slug": "durum-cloud",
     "status": "up",
-    "uptime": "55.89%",
+    "uptime": "55.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.31%",
+    "uptimeYear": "89.58%",
     "time": 627,
-    "timeDay": 751,
-    "timeWeek": 776,
-    "timeMonth": 811,
+    "timeDay": 547,
+    "timeWeek": 762,
+    "timeMonth": 798,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2023-07-26": 19,
@@ -76,8 +76,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440
+      "2022-09-19": 1440
     }
   },
   {
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
     "status": "up",
-    "uptime": "50.89%",
+    "uptime": "50.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.29%",
+    "uptimeMonth": "87.57%",
     "uptimeYear": "21.53%",
     "time": 147,
-    "timeDay": 163,
-    "timeWeek": 156,
-    "timeMonth": 153,
+    "timeDay": 124,
+    "timeWeek": 155,
+    "timeMonth": 152,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-08-21": 1150,
@@ -401,11 +400,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 340,
-    "timeWeek": 311,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "time": 291,
+    "timeDay": 227,
+    "timeWeek": 307,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   }
 ]
