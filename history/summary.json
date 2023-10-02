@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.durum.biz.ico",
     "slug": "durum-cloud",
     "status": "up",
-    "uptime": "57.00%",
+    "uptime": "57.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.41%",
+    "uptimeYear": "93.63%",
     "time": 631,
     "timeDay": 572,
     "timeWeek": 665,
@@ -71,7 +71,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
     "status": "up",
-    "uptime": "52.12%",
+    "uptime": "52.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -379,9 +379,9 @@
     "url": "$USTFLIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ust-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -390,6 +390,8 @@
     "timeWeek": 278,
     "timeMonth": 283,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-02": 0
+    }
   }
 ]
