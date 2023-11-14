@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.durum.biz.ico",
     "slug": "durum-cloud",
     "status": "up",
-    "uptime": "59.88%",
+    "uptime": "59.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.71%",
     "time": 651,
     "timeDay": 575,
     "timeWeek": 692,
     "timeMonth": 748,
-    "timeYear": 684,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2023-07-26": 19,
       "2023-04-27": 32,
@@ -46,10 +46,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
     "status": "down",
-    "uptime": "53.44%",
+    "uptime": "53.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.17%",
+    "uptimeMonth": "59.77%",
     "uptimeYear": "19.75%",
     "time": 153,
     "timeDay": 0,
@@ -57,7 +57,7 @@
     "timeMonth": 165,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2023-11-14": 26,
+      "2023-11-14": 200,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
@@ -358,9 +358,9 @@
     "url": "$USTFLIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ust-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -369,6 +369,8 @@
     "timeWeek": 264,
     "timeMonth": 295,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   }
 ]
