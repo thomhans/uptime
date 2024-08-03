@@ -15,11 +15,11 @@ sites:
       - 200
       - 201
     __dangerous__disable_verify_peer: true
-  - name: VPN1
+  - name: VPN - LAN
     check: "tcp-ping"
     url: $VPN1_URL
     port: $VPN1_PORT
-  - name: VPN2
+  - name: VPN - Internet
     check: "tcp-ping"
     url: $VPN2_URL
     port: $VPN2_PORT
