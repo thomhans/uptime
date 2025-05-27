@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2025-05-27": 41,
+      "2025-05-27": 85,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -377,7 +377,7 @@
     "timeMonth": 0,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-05-27": 41,
+      "2025-05-27": 85,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -626,10 +626,10 @@
     "url": "$USTFLIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ust-flix",
-    "status": "up",
+    "status": "down",
     "uptime": "93.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.63%",
     "time": 375,
@@ -638,6 +638,7 @@
     "timeMonth": 296,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2025-05-27": 1,
       "2025-04-26": 23,
       "2025-04-25": 22,
       "2025-03-22": 600,
@@ -730,7 +731,7 @@
     "timeMonth": 0,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-05-27": 41,
+      "2025-05-27": 85,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
