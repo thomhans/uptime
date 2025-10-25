@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.durum.biz.ico",
     "slug": "durum-cloud",
     "status": "down",
-    "uptime": "37.28%",
+    "uptime": "37.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "6.83%",
-    "time": 557,
+    "time": 558,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2025-10-24": 37,
+      "2025-10-25": 39,
+      "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
@@ -356,8 +357,7 @@
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
-      "2024-10-26": 1440,
-      "2024-10-25": 1440
+      "2024-10-26": 1440
     }
   },
   {
@@ -366,13 +366,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
     "status": "up",
-    "uptime": "49.70%",
+    "uptime": "49.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.61%",
-    "uptimeYear": "14.69%",
+    "uptimeMonth": "68.91%",
+    "uptimeYear": "14.97%",
     "time": 141,
-    "timeDay": 152,
+    "timeDay": 123,
     "timeWeek": 129,
     "timeMonth": 122,
     "timeYear": 142,
@@ -688,8 +688,7 @@
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
-      "2024-10-26": 1440,
-      "2024-10-25": 1440
+      "2024-10-26": 1440
     }
   },
   {
@@ -704,9 +703,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
     "time": 364,
-    "timeDay": 341,
+    "timeDay": 289,
     "timeWeek": 314,
-    "timeMonth": 286,
+    "timeMonth": 287,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-08-29": 48,
@@ -742,7 +741,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-internet",
     "status": "down",
-    "uptime": "8.82%",
+    "uptime": "8.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -753,7 +752,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-24": 37,
+      "2025-10-25": 39,
+      "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
@@ -1116,8 +1116,7 @@
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
-      "2024-10-26": 1440,
-      "2024-10-25": 1440
+      "2024-10-26": 1440
     }
   }
 ]
