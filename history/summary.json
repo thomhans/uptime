@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.durum.biz.ico",
     "slug": "durum-cloud",
     "status": "down",
-    "uptime": "37.04%",
+    "uptime": "37.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.83%",
-    "time": 560,
+    "time": 561,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 706,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-11-02": 44,
+      "2025-11-03": 44,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -356,8 +357,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -366,16 +366,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
     "status": "up",
-    "uptime": "50.04%",
+    "uptime": "50.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "17.16%",
-    "time": 138,
-    "timeDay": 98,
-    "timeWeek": 129,
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "17.44%",
+    "time": 137,
+    "timeDay": 102,
+    "timeWeek": 128,
     "timeMonth": 123,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2025-10-04": 700,
       "2025-10-03": 1440,
@@ -679,8 +679,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -695,10 +694,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
     "time": 362,
-    "timeDay": 215,
-    "timeWeek": 280,
-    "timeMonth": 282,
-    "timeYear": 350,
+    "timeDay": 229,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2025-08-29": 48,
       "2025-07-27": 33,
@@ -733,7 +732,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-internet",
     "status": "down",
-    "uptime": "8.64%",
+    "uptime": "8.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -744,7 +743,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 44,
+      "2025-11-03": 44,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -1107,8 +1107,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   }
 ]
