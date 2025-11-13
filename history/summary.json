@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.durum.biz.ico",
     "slug": "durum-cloud",
     "status": "down",
-    "uptime": "36.77%",
+    "uptime": "36.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 737,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2025-11-12": 42,
+      "2025-11-13": 42,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -356,8 +357,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -366,15 +366,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
     "status": "up",
-    "uptime": "50.40%",
+    "uptime": "50.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.90%",
+    "uptimeYear": "20.17%",
     "time": 138,
-    "timeDay": 130,
-    "timeWeek": 139,
-    "timeMonth": 129,
+    "timeDay": 150,
+    "timeWeek": 137,
+    "timeMonth": 130,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-10-04": 700,
@@ -669,8 +669,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -679,16 +678,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ust-flix",
     "status": "up",
-    "uptime": "94.70%",
+    "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
     "time": 362,
-    "timeDay": 293,
-    "timeWeek": 311,
-    "timeMonth": 292,
-    "timeYear": 347,
+    "timeDay": 335,
+    "timeWeek": 306,
+    "timeMonth": 294,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2025-08-29": 48,
       "2025-07-27": 33,
@@ -713,8 +712,7 @@
       "2025-01-18": 84,
       "2024-12-11": 158,
       "2024-11-28": 1394,
-      "2024-11-27": 7,
-      "2024-11-13": 63
+      "2024-11-27": 7
     }
   },
   {
@@ -723,7 +721,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-internet",
     "status": "down",
-    "uptime": "8.46%",
+    "uptime": "8.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -734,7 +732,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 42,
+      "2025-11-13": 42,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1097,8 +1096,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   }
 ]
