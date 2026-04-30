@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.durum.biz.ico",
     "slug": "durum-cloud",
     "status": "up",
-    "uptime": "36.39%",
+    "uptime": "36.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "15.34%",
-    "time": 926,
-    "timeDay": 799,
-    "timeWeek": 943,
-    "timeMonth": 920,
-    "timeYear": 945,
+    "uptimeYear": "15.62%",
+    "time": 922,
+    "timeDay": 925,
+    "timeWeek": 929,
+    "timeMonth": 918,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2026-04-13": 67,
       "2026-04-01": 286,
@@ -326,8 +326,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   },
   {
@@ -336,18 +335,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wan",
     "status": "down",
-    "uptime": "46.83%",
+    "uptime": "46.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.32%",
     "uptimeYear": "18.69%",
-    "time": 133,
+    "time": 132,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 112,
+    "timeMonth": 100,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-04-29": 89,
+      "2026-04-30": 88,
+      "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
@@ -643,8 +643,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   },
   {
@@ -653,15 +652,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ust-flix",
     "status": "up",
-    "uptime": "85.05%",
+    "uptime": "85.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "71.58%",
     "time": 300,
-    "timeDay": 275,
-    "timeWeek": 291,
-    "timeMonth": 292,
+    "timeDay": 311,
+    "timeWeek": 287,
+    "timeMonth": 291,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2026-04-01": 285,
@@ -792,7 +791,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-29": 89,
+      "2026-04-30": 88,
+      "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
@@ -1155,8 +1155,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   }
 ]
